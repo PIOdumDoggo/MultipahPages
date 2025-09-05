@@ -51,8 +51,8 @@ iframe {
   width: 30vh;
   height: 20vh;
   align-content: center;
-  margin-left: 52vh;
   border-radius: 40px;
+  align-items: center;
 }
 
 .body {
